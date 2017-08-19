@@ -1,0 +1,9 @@
+<PERSON>
+  <NAME>Name</NAME>
+  <SURNAME>Surname</SURNAME>
+  <AGE>15</AGE>
+  <ADDRESS>
+    <DISTRICT>District</DISTRICT>
+    <CITY>City</CITY>
+  </ADDRESS>
+</PERSON>
